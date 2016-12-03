@@ -125,7 +125,6 @@ export default class Presentation extends React.Component {
             <Heading size={2} fit caps lineHeight={1} textColor="tertiary">
                Targeted Surveillance vs Bulk Surveillance 
             </Heading>
-            <Image src={images.eyesEverywhere.replace("/", "")} />
           </Slide>
           <Slide transition={["fade"]} bgColor="secondary" textColor="primary">
             <Heading size={2} fit caps textColor="tertiary" lineHeight={1}>
